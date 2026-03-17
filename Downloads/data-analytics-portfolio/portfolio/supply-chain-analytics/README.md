@@ -20,11 +20,14 @@ In industrial and logistics environments, late deliveries directly impact custom
 
 ## Key Findings
 
-- **54.8% of all orders** are flagged as late delivery risk
-- **Standard Class** shipping has the highest delay rate at X% — significantly above Same Day
-- Large orders (6+ items) show **+42% higher delay rate** than small orders (1-3 items)
-- **Western Europe** and **Central America** are the most impacted regions
-- Monthly trend analysis reveals seasonal peaks in delays during Q4
+- **54.8% of all orders** (98,977 out of 180,519) face late delivery risk
+- **First Class** shipping has the worst delay rate at **95.3%** — counter-intuitively the most expensive mode performs worst
+- **Second Class** follows at **76.6%**, while Standard Class is lowest at **38.1%**
+- Delay rates are **consistent across all customer segments** (Consumer, Corporate, Home Office) — the heatmap shows the problem is systemic to shipping mode, not customer type
+- **Central America** and **Western Europe** are the most impacted regions by volume (~15K late deliveries each)
+- **South Asia** has the highest delay rate at **56.3%**
+- Monthly trend shows oscillation between 52–57% with no clear seasonal improvement
+- Total revenue impacted: **$33M** across all orders
 
 ---
 
