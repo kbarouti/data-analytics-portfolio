@@ -31,6 +31,13 @@ In industrial and logistics environments, late deliveries directly impact custom
 
 ---
 
+## Key Business Recommendations
+
+-  Re-evaluate **First Class shipping**, which shows the worst performance despite highest cost
+-  Prioritize logistics optimization in **Central America and Western Europe**
+-  Implement **region-specific delivery strategies** to reduce systemic delays
+-  Introduce **real-time monitoring dashboards** for early delay detection
+
 ## Tech Stack
 
 | Tool | Usage |
