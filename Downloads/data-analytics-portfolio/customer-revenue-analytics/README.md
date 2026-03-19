@@ -1,4 +1,4 @@
-# 💰 Customer & Revenue Analytics
+# Customer & Revenue Analytics
 
 ## Business Problem
 
@@ -20,12 +20,12 @@ Understanding customer behavior and revenue distribution is critical for any bus
 
 ## Key Findings
 
-- **Top 20% of customers** generate approximately 65% of total revenue (Pareto principle confirmed)
-- RFM segmentation reveals **5 distinct customer clusters**: Champions, Loyal, New, At Risk, Lost
-- **"At Risk" segment** represents X% of customers — high-value customers showing declining engagement
-- Product categories `bed_bath_table` and `health_beauty` drive the highest revenue
-- Average customer review score: 4.1/5 — but drops to 3.2 for late deliveries
-
+- **Top 20% of customers** generate **53.5% of total revenue** (Pareto analysis)
+- **23.7% of customers are "At Risk"** — high-value customers with declining engagement, representing 24% of revenue (R$3.7M)
+- **15,009 Champions** (16.1%) have the highest average basket at R$177 and generate 17.2% of revenue
+- **14,922 Lost customers** (16%) — significant win-back opportunity worth R$2.4M
+- **health_beauty** is the top revenue category at R$1.23M, followed by watches_gifts (R$1.17M) and bed_bath_table (R$1.02M)
+- Revenue grew **20x** from late 2016 (R$50K/month) to mid-2018 (R$1.1M/month)
 ---
 
 ## Tech Stack
